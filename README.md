@@ -1,6 +1,8 @@
-### Hi there 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorfelix998&label=Profile Views&color=blue&style=flat" alt="Felix Okoth Views" /> </p>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=juniofelix998&color=red)&nbsp;
+[![GitHub juniofelix998](https://img.shields.io/github/followers/juniofelix998?label=follow&style=social)](https://github.com/juniofelix998)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 ## &#x1f4c8; GitHub Stats
