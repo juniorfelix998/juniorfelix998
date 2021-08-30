@@ -33,3 +33,10 @@
  <img align="top" src="https://github-readme-stats.vercel.app/api?username=juniorfelix998&custom_title=Felix's%20Github%20Stats&count_private=true&show_icons=true&theme=prussian" alt="Felix's github stats"/>
 </a>
 
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/felix-okoth-aa9aa7138/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:felixokoth5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://twitter.com/fellyowino"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
+
